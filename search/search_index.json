@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Simple Web App","text":"<p>This is a simple web app which displays some text.</p>"}]}
