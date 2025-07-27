@@ -1,5 +1,6 @@
 * {
-  font-family: system-ui, sans-serif; /*set default font to system-based font*/
+    font-family:
+        system-ui, sans-serif; /*set default font to system-based font*/
 }
 h1,
 h2,
@@ -7,5 +8,5 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: bold; /*bold heading text*/
+    font-weight: bold; /*bold heading text*/
 }
